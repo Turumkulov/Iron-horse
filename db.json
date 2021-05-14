@@ -1,0 +1,26 @@
+{
+  "country": [
+    {
+      "country": "test",
+      "image": "test",
+      "description": "teste",
+      "id": 1
+    }
+  ],
+  "cars-germany": [
+    {
+      "country": "Mercedes-Benz W-124",
+      "image": "https://carakoom.com/data/wall/787/61fb73a7_medium.jpg",
+      "description": "Мерседес Е класса в кузове W124 так называемый волчок",
+      "id": 1
+    },
+    {
+      "country": "asd",
+      "image": "asd",
+      "description": "asd",
+      "id": 2
+    }
+  ],
+  "cars-japan": [],
+  "cars-usa": []
+}

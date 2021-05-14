@@ -1,0 +1,27 @@
+.navbar {
+    height: 100px;
+}
+.mers-img {
+    width: 400px;
+    height: 300px;
+    margin-left: 480px;
+}
+.h4 {
+    display: flex;
+    justify-content: center;
+}
+.mers-p {
+    display: flex;
+    justify-content: center;
+}
+.country-h {
+    text-align: center;
+}
+.add-img {
+    width: 300px;
+    height: 230px;
+}
+.usa-p {
+    margin-top: -20px;
+    margin-left: 20px;
+}
